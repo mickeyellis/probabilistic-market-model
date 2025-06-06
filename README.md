@@ -15,7 +15,7 @@ The original code and data are proprietary, but the following visuals illustrate
 
 ---
 
-## 📊 Dashboard Output
+## Dashboard Output
 
 ![Sanitized Dashboard](dashboard_output_sanitized.png)
 
@@ -25,7 +25,7 @@ The original code and data are proprietary, but the following visuals illustrate
 
 ---
 
-## 🛠️ Key Features
+## 🛠Key Features
 
 - Prioritization of impactful drivers
 - Interactive scenario testing
