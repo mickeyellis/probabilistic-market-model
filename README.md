@@ -7,7 +7,7 @@ The original code and data are proprietary, but the following visuals illustrate
 
 ## Inputs
 
-![Model Overview](probabilistic_market_modeling_overview.png)
+![Model Overview](probabilistic-market-modeling-overview.png)
 
 - **Ranged Parameters**: Low-Base-High estimates for uncertain variables.
 - **Emerging Headlines**: Discrete events with likelihood and impact estimates.
@@ -17,7 +17,7 @@ The original code and data are proprietary, but the following visuals illustrate
 
 ## Dashboard Output
 
-![Sanitized Dashboard](probabilistic_market_modeling_dashboard.png)
+![Sanitized Dashboard](probabilistic-market-modeling-dashboard.png)
 
 - **Monte Carlo Simulation**: Generates expected values with high/low forecast bands.
 - **Segmented Insights**: Results filterable by region, segment, and scenario.
