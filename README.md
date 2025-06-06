@@ -25,7 +25,7 @@ The original code and data are proprietary, but the following visuals illustrate
 
 ---
 
-## 🛠Key Features
+## Key Features
 
 - Prioritization of impactful drivers
 - Interactive scenario testing
