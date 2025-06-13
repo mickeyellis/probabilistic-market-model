@@ -8,7 +8,7 @@ This project was built with Python, but the original code and data are proprieta
 
 ## Dynamic Dashboard
 
-![Dynamic Dashboard](dashboard.png)
+![Dynamic Dashboard](dynamic_dashboard.png)
 
 ---
 
