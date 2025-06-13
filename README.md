@@ -12,10 +12,10 @@ This repository is intended as a visual showcase only. No source code is include
 
 ## Overview
 
-![Model Overview](probabilistic-market-modeling-overview.png)
+![Probabilistic Market Model Overview](overview.png)
 
 ---
 
 ## Dashboard Output
 
-![Sanitized Dashboard](probabilistic-market-modeling-dashboard.png)
+![Dynamic Dashboard](dashboard.png)
